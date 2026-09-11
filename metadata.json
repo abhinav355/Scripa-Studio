@@ -1,0 +1,6 @@
+{
+  "name": "Scripa.studio",
+  "description": "Scripa.studio - High-converting AI video script generation platform, live teleprompter studio, viral hooks engine, and creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
